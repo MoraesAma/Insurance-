@@ -1,2 +1,2 @@
-Projeto MVP Machine Learning
+Projeto MVP Machine Learning.
 O objetivo do modelo é apoiar uma tarefa de classificação preditiva, estimando a probabilidade de um paciente desenvolver um AVC a partir de suas características individuais. Essa previsão pode auxiliar na identificação precoce de pessoas em situação de risco, permitindo a adoção de medidas preventivas, acompanhamento médico mais direcionado e intervenções capazes de reduzir a ocorrência de eventos graves.
